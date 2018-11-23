@@ -1,0 +1,15 @@
+mail:
+    smtp:
+        auth: true
+        timeout: 5000
+        port: 465
+    transport: 
+        protocol: smtp
+    send: 
+        charset: UTF-8
+    is: 
+        ssl: true
+    host: smtp.qq.com
+    auth:
+        name: maozhenxian@foxmail.com
+        password: wbzatplpjmmobdia
